@@ -1,2 +1,3 @@
 .github/**
+# to include all csv files
 *.csv
