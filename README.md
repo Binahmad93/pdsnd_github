@@ -11,7 +11,8 @@ Github remote repository course
 This project is about increasing the knowledge of git and how to use Github platform properly.
 
 ### Files used
-Include the files used
+we used bikeshare.py file to add it to thi project
+bikeshare file contain the python script that have been made for the Udacity project for python programming course.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
