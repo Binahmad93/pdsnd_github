@@ -8,7 +8,7 @@ Sunday, 12 September 2021 12:12 PM
 Github remote repository course
 
 ### Description
-Describe what your project is about and what it does
+This project is about increasing the knowledge of git and how to use Github platform properly.
 
 ### Files used
 Include the files used
